@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskChatGPT", "AskChatGPT\AskChatGPT.csproj", "{AC4C44C7-7AD9-4952-94F3-3384CB823A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC4C44C7-7AD9-4952-94F3-3384CB823A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4C44C7-7AD9-4952-94F3-3384CB823A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4C44C7-7AD9-4952-94F3-3384CB823A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4C44C7-7AD9-4952-94F3-3384CB823A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DADE87F8-D353-4E12-99BC-D6CCA70E287A}
+	EndGlobalSection
+EndGlobal
